@@ -2,8 +2,8 @@
 
 Escrito com base no tutorial disponível em
 
-https://medium.com/reactbrasil/como-o-javascript-funciona-aprofundando-em-websockets-e-http-2-com-sse-como-escolher-o-caminho-d4639995ef85
+https://www.luiztools.com.br/post/como-criar-um-servidor-de-websockets-em-node-js/
 
-e no código disponível em
+e 
 
-https://github.com/theturtle32/WebSocket-Node
+https://www.luiztools.com.br/post/como-criar-um-servidor-de-websockets-em-node-js-2/
